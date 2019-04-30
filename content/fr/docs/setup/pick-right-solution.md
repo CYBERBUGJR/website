@@ -105,7 +105,7 @@ workloads, et plus encore.
 
 ## Solutions clés en main
 
-Ces solutions vous permettent de créer des clusters Kubernetes sur une gamme de fournisseurs de Cloud IaaaS avec seulement 
+Ces solutions vous permettent de créer des clusters Kubernetes sur une gamme de fournisseurs de Cloud IaaS avec seulement 
 quelques commandes. Ces solutions sont activement développées et bénéficient du soutien actif de la communauté.
 
 * [Agile Stacks](https://www.agilestacks.com/products/kubernetes)
